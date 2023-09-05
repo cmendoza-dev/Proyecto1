@@ -21,6 +21,9 @@
 .slideUp { top:-100px; }
 .headroom { -webkit-transition: all 0.4s ease-out; -moz-transition: all 0.4s ease-out; -o-transition: all 0.4s ease-out; transition: all 0.4s ease-out; }
 
+.bg-rojo{
+	background: linear-gradient(90deg,#f21826 0,#a3071d) !important;
+}
 
 /* Highlights (in jumbotron in most cases) */
 .highlight { margin-top:40px; }
