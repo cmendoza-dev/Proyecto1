@@ -37,9 +37,9 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
 					<li><a href="index.php">Inicio</a></li>
-					<li><a href="about.php">About</a></li>
+					<li><a href="about.php">Sobre Nosotros</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Más páginas <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li><a href="sidebar-right.php">Right Sidebar</a></li>

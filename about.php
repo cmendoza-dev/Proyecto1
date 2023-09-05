@@ -36,10 +36,10 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li><a href="index.php">Home</a></li>
-					<li class="active"><a href="about.php">About</a></li>
+					<li><a href="index.php">Inicio</a></li>
+					<li class="active"><a href="about.php">Nosotros</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mas páginas<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li><a href="sidebar-right.php">Right Sidebar</a></li>
@@ -59,8 +59,8 @@
 	<div class="container">
 
 		<ol class="breadcrumb">
-			<li><a href="index.php">Home</a></li>
-			<li class="active">About</li>
+			<li><a href="index.php">Inicio</a></li>
+			<li class="active">Nosotros</li>
 		</ol>
 
 		<div class="row">
@@ -68,7 +68,7 @@
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">About us</h1>
+					<h1 class="page-title">Sobre Nosotros</h1>
 				</header>
 				<h3>Lorem ipsum</h3>
 				<p><img src="assets/images/mac.jpg" alt="" class="img-rounded pull-right" width="300" > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.</p>
